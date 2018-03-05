@@ -25,6 +25,23 @@
 }
 
 .nav a:hover {
-    color: #F90;
-    background-color: #FFF;
+	color: #F90;
+	background-color: #FFF;
+}
+.media{
+	
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+}
+
+.pull-left {
+  width: 100px;
+}
+.list-group-item {
+    position: relative;
+    display: block;
+    padding: 20px 15px;
+    margin-bottom: -1px;
+
 }

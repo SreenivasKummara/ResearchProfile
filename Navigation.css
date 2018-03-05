@@ -1,0 +1,30 @@
+.nav {
+	height: 35px;
+	font-size: 16px;
+	font-family: Tahoma, Geneva, sans-serif;
+	font-weight: bold;
+	background-color: #F0F8FF;
+	border-radius: 8px;
+}
+
+.nav ul {
+	height: auto;
+	padding: 8px 0px;
+	margin: 0px;
+}
+
+.nav li {
+	display: inline;
+	padding: 20px;
+}
+
+.nav a {
+	text-decoration: none;
+	color: #E62E00;
+	padding: 8px 8px 8px 8px;
+}
+
+.nav a:hover {
+    color: #F90;
+    background-color: #FFF;
+}
